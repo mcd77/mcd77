@@ -1,4 +1,4 @@
-Security researcher focused on AI systems and modern application attack surfaces.
+Currently focused on security research of AI systems and modern application attack surfaces.
 
 Currently exploring:
 - AI agents and toolchains
