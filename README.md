@@ -10,3 +10,7 @@ Support Engineer focused on security research across **AI systems** and modern a
 - **Local services**, trust boundaries, and data exposure  
 
 ---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/chrismcdo/)
